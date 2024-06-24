@@ -15,24 +15,24 @@ The dataset comprises information on various used cars, including attributes suc
 
 **Project Goals and Steps**
 **1. Data Exploration**
-Conducted thorough analysis to understand data distributions, identify outliers, and visualize key trends using histograms and scatter plots.
+ - Conducted thorough analysis to understand data distributions, identify outliers, and visualize key trends using histograms and scatter plots.
 
 **2. Feature Engineering**
  - Engineered new features like car_age derived from the year of manufacture to capture the vehicle's age.
  - Transformed categorical variables using one-hot encoding to prepare them for machine learning models.
- - 
+   
 **3. Model Selection and Training**
  - Selected regression models including Linear Regression, Random Forest, and Gradient Boosting based on their suitability for the dataset.
  - Developed pipelines for preprocessing and model training to streamline the workflow.
- - 
+   
 **4. Model Evaluation**
  - Evaluated model performance using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
  - Utilized cross-validation techniques to ensure robustness and reliability of the models.
- - 
+ 
 **5. Hyperparameter Tuning**
  - Employed Grid Search and Random Search to optimize hyperparameters of selected models, enhancing prediction accuracy.
- - 
+   
 **Results and Conclusion**
  - Achieved a prediction accuracy of 60.18% after rigorous model tuning and evaluation.
- - 
+   
 This project not only provided insights into predicting car prices but also enhanced proficiency in data preprocessing, model selection, and performance evaluation set
