@@ -35,4 +35,4 @@ The dataset comprises information on various used cars, including attributes suc
 **Results and Conclusion**
  - Achieved a prediction accuracy of 60.18% after rigorous model tuning and evaluation.
    
-This project not only provided insights into predicting car prices but also enhanced proficiency in data preprocessing, model selection, and performance evaluation set
+This project not only provided insights into predicting car prices but also enhanced proficiency in data preprocessing, model selection, and performance evaluation set.
